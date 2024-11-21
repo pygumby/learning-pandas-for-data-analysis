@@ -1,5 +1,5 @@
 {
-    "name": "numpy-basics",
+    "name": "learning-pandas-for-data-analysis",
     "image": "mcr.microsoft.com/devcontainers/python:3",
     "features": {
         // Various
